@@ -4,4 +4,4 @@
 
 前端：1、bootstrap 2、jQuery 3、html
 
-后端：1、jsp  2、springMVC  3、mybatis及其逆向工程  4、mysql数据库
+后端：1、jsp  2、springMVC  3、mybatis及其逆向工程工具  4、mysql数据库
